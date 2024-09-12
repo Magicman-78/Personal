@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
 
     public KeyCode jump;
     public float jumpforce;
+    public ParticleSystem Confetti;
 
     private Rigidbody2D rb2d;
     // Start is called before the first frame update
@@ -21,6 +22,10 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Y))
+        {
+            Confetti.Play();
+        }
         //Move left and right.
         if (Input.GetKey(left))
         {
