@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MovementAnim : MonoBehaviour
 {
+    public float speed;
+
     private Animator _anim;
     private Rigidbody2D _rb2d;
 
@@ -19,14 +21,14 @@ public class MovementAnim : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.LeftArrow))
         {
-            _rb2d.AddForce(Vector2.left * Time.deltaTime);
+            _rb2d.AddForce(Vector2.left * Time.deltaTime * speed);
         }
 
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            _rb2d.AddForce(Vector2.right * Time.deltaTime);
+            _rb2d.AddForce(Vector2.right * Time.deltaTime * speed);
         }
 
-        _anim.SetFloat("XSpeedAbs", _rb2d.velocity.x);
+        _anim.SetFloat("XSpeedAbs", Mathf.Abs(_rb2d.velocity.x));
     }
 }
