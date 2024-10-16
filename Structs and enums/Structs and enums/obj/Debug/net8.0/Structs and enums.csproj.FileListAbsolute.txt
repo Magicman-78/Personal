@@ -1,0 +1,14 @@
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\bin\Debug\net8.0\Structs and enums.exe
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\bin\Debug\net8.0\Structs and enums.deps.json
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\bin\Debug\net8.0\Structs and enums.runtimeconfig.json
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\bin\Debug\net8.0\Structs and enums.dll
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\bin\Debug\net8.0\Structs and enums.pdb
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\Structs and enums.GeneratedMSBuildEditorConfig.editorconfig
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\Structs and enums.AssemblyInfoInputs.cache
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\Structs and enums.AssemblyInfo.cs
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\Structs and enums.csproj.CoreCompileInputs.cache
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\Structs and enums.dll
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\refint\Structs and enums.dll
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\Structs and enums.pdb
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\Structs and enums.genruntimeconfig.cache
+E:\VGD\1721887 - Josiah PM\Structs and enums\Structs and enums\obj\Debug\net8.0\ref\Structs and enums.dll

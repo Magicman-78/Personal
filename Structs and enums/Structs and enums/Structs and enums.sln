@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs and enums", "Structs and enums.csproj", "{86552E58-8EA1-46D7-BE5B-A5ED2765F16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86552E58-8EA1-46D7-BE5B-A5ED2765F16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86552E58-8EA1-46D7-BE5B-A5ED2765F16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86552E58-8EA1-46D7-BE5B-A5ED2765F16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86552E58-8EA1-46D7-BE5B-A5ED2765F16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47468F5A-DD7C-43E4-901E-ACAC83E43A81}
+	EndGlobalSection
+EndGlobal
